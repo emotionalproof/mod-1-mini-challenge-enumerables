@@ -11,7 +11,7 @@ def print_spicy_foods(spicy_foods)
 end
 
 def get_names(spicy_foods)
-
+  food = "thai"
 end
 
 def spiciest_foods(spicy_foods)
