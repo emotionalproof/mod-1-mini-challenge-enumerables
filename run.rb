@@ -7,7 +7,7 @@ spicy_foods = [
 ]
 
 def print_spicy_foods(spicy_foods)
-
+  name = "chase"
 end
 
 def get_names(spicy_foods)
